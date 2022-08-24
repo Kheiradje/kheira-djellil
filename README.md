@@ -6,5 +6,5 @@ My personal repository
 - I'm learning python. 
 - how to reach me : 
 email : kheiradjellil@gmail.com
-- I'll appreciate any help :stuck_out_tongue_closed_eyes: .
+- I'll appreciate any help :stuck_out_tongue_closed_eyes: 
 - thank you.
